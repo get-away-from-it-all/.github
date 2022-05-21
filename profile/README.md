@@ -1,10 +1,9 @@
-## Hi there 👋
+## 目标
 
-**Here are some ideas to get you started:**
+**大家都知道WEB开发越来越繁琐开发成本高，我们要做的是:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+🙋‍♀️ 回归本源html,javascript,css
+🌈 保留前人探索的优点例如模块化，动态加载，等...
+👩‍💻 降低开发，维护，阅读，时间成本
+🍿 保住我们的头发
+🧙 奇迹就在这里开始
