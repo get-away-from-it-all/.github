@@ -1,1 +1,1 @@
-# .github
+# get away from it all
